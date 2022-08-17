@@ -1,15 +1,15 @@
 # Privacy Policy
-"LightOnDevs" developes, sells and publishes the "Telelight Pro" android apps. This SERVICE is provided by "LightOnDevs" and is intended for use as is.
+"Telelight-Accessible Telegram" android app is developed by "LightOnDevs". This SERVICE is provided by "LightOnDevs" and is intended for use as is.
 
-This page is used to inform website visitors and app users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+This page is used to inform app users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. We never collect, transfer to any server and save in our servers, any Personal Information. We will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at each app, unless otherwise defined in this Privacy Policy.
 
 ### Information Collection and Use
 
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your contacts details and photos, your incoming phone call details and number and your phone notifications. The information that we request is retained on your device and is not collected and set to any servers by us in any way.
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information. **To optionally send your live location in a chat you choose, this app needs access to your location all time, including while the app is in background. It will access your location only for the duration you choose, and you can stop sharing it anytime. We won't use your location for any purpose other than sharing in that chat.**
 
 ### Log Data
 
