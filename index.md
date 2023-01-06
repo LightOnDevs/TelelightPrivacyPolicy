@@ -15,6 +15,8 @@ For a better experience while using our Service, we may require you to provide u
 
 **To optionally keep the your Telegram contacts in sync with your phone contacts, "Telelight-Accessible Telegram" app collects your contact list and uploads it to Telegram servers if you allow it on consent screen. You can stop sending it to Telegram servers at anytime by denying the required permission in "Telelight-Accessible Telegram" app's settings. We won't use your contact list for any purpose other than described in this Privacy Policy.**
 
+**To optionally take photos/videos to send, and send photos/videos/files from your phone to your chat opponent(s), channel(s), group(s) or bot(s), "Telelight-Accessible Telegram" app asks you the permission to access your camera and read/write to your internal or external phone memory. These permission are used only in occasions you decide to use those features and only on data you choose. It uploads photos/videos/files selected by you to Telegram (not Telelight's) servers, if you allow the permission on consent screen. You can permanently disallow this access at anytime by denying the required permissions in "Telelight-Accessible Telegram" app's settings. We won't use this data for any purpose other than described in this Privacy Policy.**
+
 ### Log Data
 
 We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics.
