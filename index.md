@@ -15,11 +15,14 @@ To optionally send your live location in a chat you choose, this app needs acces
 
 To optionally keep the your Telegram contacts in sync with your phone contacts, "Telelight-Accessible Telegram" app collects your contact list and uploads it to Telegram servers if you allow it on consent screen. You can stop sending it to Telegram servers at anytime by denying the required permission in "Telelight-Accessible Telegram" app's settings. We won't use your contact list for any purpose other than described in this Privacy Policy.
 
-To optionally take photos/videos to send, and send photos/videos/files from your phone to your chat opponent(s), channel(s), group(s) or bot(s), "Telelight-Accessible Telegram" app asks you the permission to:
+"Telelight-Accessible Telegram" app optionally **uploads your images information** for some features, as follows:**
 
-- Access your camera
-- Read/write images, photos, videos & files to your internal or external phone memory.
-- Upload images, photos, videos & files via internet to Telegram (not Telelight's) servers.
+- To set your profile image.
+- To send images to chat opponents, channels, groups or bots.
+
+"Telelight-Accessible Telegram" app asks you the permission to **Access your camera** & **Read/write images, photos, videos & files to your internal or external phone memory** for some fearures, as follows:
+
+- To take photos and videos by your phone and save them on your phone.
 
 These permission are used only in occasions you decide to use mentioned features, on the data you choose, and only if you allow the permissions on consent screen. You can permanently disallow this access at anytime by denying the required permissions in "Telelight-Accessible Telegram" app's settings. We won't use your data for any purpose other than described in this Privacy Policy.
 
